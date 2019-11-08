@@ -30,6 +30,10 @@ NODE_ENV=staging node server.js
 
 ## Snapshots
 
+### Problem Statement
+
+![Problem Statement](https://github.com/shubh9457/Pay_slip_generation/blob/master/question.PNG)
+
 ### Landing Page
 
 ![Landing Page](https://github.com/shubh9457/Pay_slip_generation/blob/master/landing_page.PNG)
