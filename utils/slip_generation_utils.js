@@ -46,7 +46,7 @@ function isValidDate(month, year) {
 
 // Checking if the user passed in month is valid or not
 function isValidMonth(month) {
-    const validmonths = ["january", "febraury", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december", "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+    const validmonths = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december", "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
 
     if(typeof month == 'string') {
         month = month.toLowerCase();
